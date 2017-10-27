@@ -1,0 +1,39 @@
+body {
+	background-image: url("book.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+h1{
+	text-align: center;
+	margin: auto;
+	padding: 5px;
+	font-size: 40px;
+	color: green;
+	text-decoration:underline;
+	font-family:"georgia";
+}
+
+#content{
+	text-align: center;
+	padding: auto;
+	margin: auto;
+}
+
+#content a{
+	font-size: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#content a{
+	text-decoration: none;
+}
+
+#content a:visited{
+	text-decoration: none;
+}
+
+#content a:hover{
+	text-decoration: underline;
+	color: green;
+}
